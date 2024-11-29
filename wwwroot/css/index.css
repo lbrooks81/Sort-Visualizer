@@ -1,0 +1,21 @@
+﻿#settings
+{
+    max-width: 
+}
+
+#btns
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#go 
+{
+    flex-grow: 1;
+}
+
+#reset
+{
+    flex-grow: 1;
+}
